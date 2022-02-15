@@ -23,3 +23,4 @@ add $s3,$s1,$s2#y=s1+s2
 sw $s3,8($t0) #MEM[i+2]=s3
 addi $t0,$t0,4#i=i+1
 bne $t3,$t2,loop#while(i!=t2)
+
