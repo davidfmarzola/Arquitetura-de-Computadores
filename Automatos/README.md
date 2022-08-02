@@ -1,4 +1,4 @@
-<h1 align="center">Autômatos - Circuitos Sequenciais</h1>
+<h1 align="center">Circuitos Sequenciais</h1>
 
 ## :camera: Demonstração
 
